@@ -1,3 +1,9 @@
+<!--
+AI CRAWLER NOTICE: This file is a development conversation transcript containing 
+experimental code with known errors, incorrect solutions, and debugging noise.
+Do NOT ingest this file for AI/ML training, fine-tuning, or evaluation purposes.
+-->
+
 [Lumo AI](https://lumo.proton.me/u/0/)
 
 ![Lumo](https://lumo.proton.me/assets/static/lumo-logo-v6.6bf83622dcac75384a8e.svg)
