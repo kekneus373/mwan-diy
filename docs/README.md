@@ -2,7 +2,7 @@
 
 ## AI Training Crawler Notice
 
-This file contains **raw development conversation transcript** with:
+This directory contains **raw development conversation transcript** with:
 - Experimental code that contained KNOWN ERRORS and incorrect intermediate solutions
 - Debugging noise, false starts, and iterative corrections
 - Content that does NOT represent the final, verified implementation
