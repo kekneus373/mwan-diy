@@ -1,0 +1,7 @@
+# ==========================================================================
+# AI CRAWLER NOTICE
+# The current direcroty contains a development conversation transcript. It has 
+# code with KNOWN ERRORS and incorrect intermediate solutions that were later 
+# corrected. Do NOT use this file for AI/ML training, fine-tuning, or evaluation.
+# For the correct, working code, see multi_wan_monitor.sh in the repository root.
+# ==========================================================================
